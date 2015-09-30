@@ -14,7 +14,7 @@ Each optimisation is implemented for:
 - Multiscopy (Alioscopy)
 
 A video tutorial, more information and the thesis will be published on my website soon.
-If you would like to try the rendering optimisations you can find prefabs for the cameras in "Assets\_RenderingOptimisations\Prefabs".
+If you would like to try the rendering optimisations you can find prefabs for the cameras in "Assets\ _RenderingOptimisations\ Prefabs".
 In order to add a performance optimisation to the scene you need to drag and drop any of the cameras.
 
 The MIT license applies to the Unity3D plug-in. This is a Unity project with the plug-in already implemented. 
