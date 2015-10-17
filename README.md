@@ -1,6 +1,6 @@
 Performance Optimisations for Stereoscopic and Multiscopic Rendering
 
-This is the Unity Project version of the artefact for my MSc (Res) thesis artefact. 
+This is the Unity Project version of the artefact for my MSc (Res). 
 You can find more information regarding the project here: grigtod.com
 
 This project consists of three different performance optimisations:
